@@ -1,4 +1,4 @@
-	tea : 50 : 2
+	Condom : 135 : 48
 
-	coffee : 120 : 4
+	Tea : 25 : 40
 
